@@ -1,0 +1,37 @@
+{
+  "productid": 30001,
+  "productname": "124 Spider",
+  "power": 123,
+  "torque": 250,
+  "weight": 1.124,
+  "transmission": "RWD",
+  "yom": "2017-04-22",
+  "description": "The 124 Spider was first introduced in 2016 as a homage to the 50th anniversary of the 1966-1985 124 Sport Spider.",
+  "img": "30001_optimized.png",
+  "brand": {
+    "brandid": 10001,
+    "brandname": "ABARTH"
+  },
+  "colorList": [
+    {
+      "colorid": 20007,
+      "colorname": "Red",
+      "colorcode": "#FF0000"
+    },
+    {
+      "colorid": 20076,
+      "colorname": "Cyan",
+      "colorcode": "#00FFFF"
+    },
+    {
+      "colorid": 20117,
+      "colorname": "White",
+      "colorcode": "#FFFFFF"
+    },
+    {
+      "colorid": 20139,
+      "colorname": "Black",
+      "colorcode": "#000000"
+    }
+  ]
+}
