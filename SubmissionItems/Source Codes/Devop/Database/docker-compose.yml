@@ -1,0 +1,20 @@
+version: '3'
+services:
+  database:
+    container_name: database
+    build: .
+    image: database
+    environment: 
+      MYSQL_ROOT_USER: root
+      MYSQL_ROOT_PASSWORD: Newnismo_2001
+      MYSQL_DATABASE: carsdb
+    volumes:
+      - "./scripts/carsdb.sql:/docker-entrypoint-initdb.d/carsdb.sql"
+      - "./scripts/user_grant.sql:/docker-entrypoint-initdb.d/user_grant.sql"
+    ports:
+      - "3306:3306"
+
+networks:
+    default:
+        external:
+            name: allnetwork
