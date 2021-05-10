@@ -1,0 +1,30 @@
+Civic Type R '18
+Honda
+228
+400
+1.414
+FWD
+The 2018 Civic Type R is the performance model of the 
+tenth generation Honda Civic, replacing the 2015 
+Civic Type R of the ninth generation Civic hatchback.
+------------------------------------------------------
+Jesko
+Koenigsegg
+954
+1197
+1.420
+RWD
+The Koenigsegg Jesko is a track-focused hypercar that 
+debuted at the 2019 Geneva Motor Show to replace the 
+Koenigsegg Agera.
+------------------------------------------------------
+Senna
+Mclaren
+588
+800
+1.27
+RWD
+It is named after Ayrton Senna, paying tribute and 
+honor to his successes between the 1988 and 1993 
+Formula 1 seasons as part of the McLaren Formula One 
+Team
