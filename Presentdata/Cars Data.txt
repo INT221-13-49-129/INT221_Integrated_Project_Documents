@@ -28,3 +28,7 @@ It is named after Ayrton Senna, paying tribute and
 honor to his successes between the 1988 and 1993 
 Formula 1 seasons as part of the McLaren Formula One 
 Team
+-------------------------------------------------------
+Newnismo_2001
+SELECT * FROM carsdb.productcolor where productid = 30204 ;
+SELECT * FROM carsdb.product where brand_brandid = 10038;
